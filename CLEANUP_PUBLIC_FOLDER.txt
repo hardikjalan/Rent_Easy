@@ -1,0 +1,25 @@
+Files in public/css/ that can be deleted (old gaming files):
+
+- artsStyle.css
+- drumstyles.css  
+- kit.jpeg
+- login.css
+- logo.jpeg
+- musStyles.css
+- newlogo.png
+- paint.css
+- paint1.jpeg
+- paint2.png
+- sounds/ (entire folder)
+- style0.css
+- styles.css
+- styles1.css  
+- styles2.css
+- video.mp4
+- back.jpeg
+
+These were for the old "Eduwiz" gaming platform (drum kit, paint, arts, music)
+which we removed when converting to the rental platform.
+
+Current project uses Tailwind CSS (via CDN) - no local CSS files needed.
+
